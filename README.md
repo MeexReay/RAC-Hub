@@ -1,4 +1,4 @@
-This repository provides an overview of software built around the RAC protocol — including clients, servers, and associated tools.
+This repository provides an overview of software built around the Sugoma’s "IRC killer", the so-called RAC (Real Address Chat) protocol.
 
 You're welcome to contribute by [sharing additional entries or information](https://github.com/MeexReay/RAC-Hub/pulls) to help expand this directory.
 
