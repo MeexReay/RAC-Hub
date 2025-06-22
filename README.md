@@ -15,7 +15,7 @@ You're welcome to contribute by [sharing additional entries or information](http
 | [Snowdrop](https://github.com/Forbirdden/Snowdrop) | WRAC GUI client | Forbirdden  | ❌ | Active | JavaScript | ❌ | v2.0 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [2.0.0](https://gitea.bedohswe.eu.org/pixtaded/crab/releases/tag/2.0.0-snapshot-202502092015) | Frozen | Java | v1.99.2 | ❌ |
 | [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client | Bʰedoh₂ swé | [Source code](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/raw/branch/main/dobroho_vechora.bash) | Abandoned | Bash | v1.0[^2] | ❌ |
-| lRAC | The first original RAC client using tkinter | Mr. Sugoma | [1.0.2](https://media.githubusercontent.com/media/MeexReay/RAC-Hub/refs/heads/main/Archive/lRAC/lrac_1.0.2.py) | Abandoned | Python | v1.0[^4] | ❌ |
+| lRAC | The first original RAC client using tkinter | Mr. Sugoma | [1.0.2](https://github.com/MeexReay/RAC-Hub-Archive/tree/main/lRAC/1.0.2) | Abandoned | Python | v1.0[^4] | ❌ |
 
 <!-- | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden  | ❌ | Abandoned | Java | v1.0, v1.99.2 | ❌ | -->
 <!-- | WinRAC | GUI client for RAC developed using WinForms | cat8753 |  | Abandoned | C# | v1.99.2 | ❌ | -->
