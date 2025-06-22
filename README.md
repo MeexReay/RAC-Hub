@@ -56,7 +56,7 @@ The following documents cover the structure, behavior, and expectations of RAC a
 - [RACv1.99.x](RACv1.99.md)
 - [RACv2.0](RACv2.md)
 - [WRACv2.0](WRAC.md)
-- [Users additions](USERS_ADDITIONS.md)
+- [Extensions](USERS_ADDITIONS.md)
 
 [^4]: "_Про RAC 1 вообще забудь, это днище, его юзать нельзя._" - Mr. Sugoma
 
