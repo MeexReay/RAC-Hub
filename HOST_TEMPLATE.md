@@ -1,0 +1,1 @@
+| {address} | {description} | {software} | {status} | {protocol} | {auth} |
