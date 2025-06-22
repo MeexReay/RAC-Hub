@@ -1,1 +1,0 @@
-| {name} | {description} | {author} | {release} | {status} | {lang} | {rac_version} | {wrac_version} |
