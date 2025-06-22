@@ -1,19 +1,17 @@
-# RACv2.0 Protocol
+# RACv1.0 Protocol
 
-## Message Retrieval
+Description of the Sugoma’s “IRC killer”, the so-called RAC (Real Address Chat) protocol. (The worst name for a protocol.)
 
-a. The client initiates a message retrieval session by sending the byte 0x00 to the server.
+Client sends a message consisting of a message type (single byte) and an argument, if required. Server ignores everything that comes afterwards, so the socket must be closed.
 
-b. In response, the server transmits the size of the available messages as an ASCII-encoded string.
+Known message types:
 
-c. After receiving the size, the client must send one of the following bytes or close the connection:
+    0. 0x30: Server stores the argument to the message log. Server does not respond with anything.
+        Message cannot be longer than 4096 bytes (including the 0x30 byte and the newline at the end). Longer messages are stripped.
 
-i. Sending 0x01 instructs the server to transmit all messages in full.
+    1. 0x31 (argumentless): Server responds with the size of the message log in bytes as a decimal string which needs to be converted into a number. Clients are confused when it is incorrect.
 
-ii. Sending 0x02 followed by the client’s cached messages length (as an ASCII string, e.g., 0x02"1024") instructs the server to transmit only new messages added since the cached length. The server sends messages starting from the cached length offset, and the client updates its cached length to the total size received in step 1b after processing the new messages.
+    2. 0x32 (argumentless): Server responds with the raw contents of the message log stripped to the size of the answer to the previous ‘1’ message.
+        Server responds with garbage to a message of this type if the client have not previously sent a ‘1’ message.
 
-## Message Transmission
-
-a. The client sends the byte 0x01 followed immediately by the message content. The server does not send a response.
-
-Source: https://gitea.bedohswe.eu.org/pixtaded/crab#rac-protocol
+Source: https://bedohswe.eu.org/text/rac/protocol.md.html
