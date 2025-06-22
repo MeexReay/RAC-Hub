@@ -1,5 +1,7 @@
 # Users additions
 
+Over time, as various clients and servers for RAC were developed, users introduced their own protocol extensions. These additions were created independently of Mr. Sugoma and are designed to enhance the protocol's capabilities while maintaining compatibility with existing RAC versions.
+
 ## Server info packet
 
 Client sends:
