@@ -4,7 +4,7 @@ You're welcome to contribute by [sharing additional entries or information](http
 
 # Clients
 
-Sorted by protocols compatibility and status!
+Sorted by status, protocols and release.
 
 | Title | Description | Author | Release | Status | Lang | RAC | WRAC |
 | :---: | :---------: | :----: | :-----: | :----: | :--: | :-: | :--: |
@@ -13,12 +13,12 @@ Sorted by protocols compatibility and status!
 | [сRACk](https://github.com/pansangg/cRACk)[^5] | client for RAC kettles (TUI) | pansangg | [v2.0-beta](https://github.com/pansangg/cRACk/releases/tag/v2.0-beta) | Active | Python | v2.0 | ❌ |
 | clRAC | The official RAC client | Mr. Sugoma | [2.0.1](https://wdfiles.ru/Ofx7) | Active | C | v2.0 | ❌ |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [v1.3.1+1.99.2](https://github.com/OctoBanon-Main/mefedroniy-client/releases/tag/v1.3.1%2B1.99.2) | Active | Rust | v1.99.2 | ❌ |
-| [Tower](https://github.com/kostya-zero/tower) | GUI client for RAC developed using Tauri | Kostya Zero | ❌ | Active | Rust | v2.0 | v2.0 |
+| [Tower](https://github.com/kostya-zero/tower) | GUI client for RAC developed using Tauri | Kostya Zero | ❌ | Active | TypeScript, Rust | v2.0 | v2.0 |
 | [Snowdrop](https://github.com/Forbirdden/Snowdrop) | WRAC GUI client | Forbirdden  | ❌ | Active | JavaScript | ❌ | v2.0 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [2.0.0](https://gitea.bedohswe.eu.org/pixtaded/crab/releases/tag/2.0.0-snapshot-202502092015) | Frozen | Java | v1.99.2 | ❌ |
-| [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client | Bʰedoh₂ swé | [Source code](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/raw/branch/main/dobroho_vechora.bash) | Abandoned | Bash | v1.0[^2] | ❌ |
+| [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client | Bʰedoh₂ swé | [Final code](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/raw/branch/main/dobroho_vechora.bash) | Abandoned | Bash | v1.0[^2] | ❌ |
 | lRAC | The first original RAC client using tkinter | Mr. Sugoma | [1.0.2](https://github.com/MeexReay/RAC-Hub-Archive/tree/main/lRAC/1.0.2) | Abandoned | Python | v1.0[^4] | ❌ |
-| [Crack](https://gitlab.com/kiber_ogur4ik/crack) | Смешной клиент для смешного протоколо смешного чела | kiber_ogur4ik | ❌ | Abandoned | TypeScript | v1.0 | ❌ |
+| [Crack](https://gitlab.com/kiber_ogur4ik/crack) | Crack stands for Cool RAC Klient | kiber_ogur4ik | ❌ | Abandoned | TypeScript, Python | v1.0 | ❌ |
 
 <!-- | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden  | ❌ | Abandoned | Java | v1.0, v1.99.2 | ❌ | -->
 <!-- | WinRAC | GUI client for RAC developed using WinForms | cat8753 |  | Abandoned | C# | v1.99.2 | ❌ | -->
@@ -29,14 +29,14 @@ Sorted by protocols compatibility and status!
 
 # Server software
 
-Sorted by protocols compatibility and status!
+Sorted by status, protocols and release.
 
 | Title | Description | Author | Release | Status | Lang | RAC | WRAC |
 | :---: | :---------: | :----: | :-----: | :----: | :--: | :-: | :--: |
 | [sRAC](https://github.com/MeexReay/sRAC) | simple RAC server | MeexReay | [1.0.0](https://github.com/MeexReay/sRAC/releases) | Active | Rust | v2.0 | v2.0 |
 | lRACd | The official RAC server | Mr. Sugoma | [2.0.9](https://wdfiles.ru/Obvt) | Active | C | v2.0 | ❌ |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [2.0.0](https://gitea.bedohswe.eu.org/pixtaded/crab/releases/tag/2.0.0-snapshot-202502092015) | Frozen | Java | v1.99.2 | ❌ | 
-| [AlmatyD](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Open source server | Bʰedoh₂ swé | [Source code](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Abandoned[^3] | TypeScript | v1.0 | ❌ |
+| [AlmatyD](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Open source server | Bʰedoh₂ swé | [Final code](https://gitea.bedohswe.eu.org/bedohswe/almatyd) | Abandoned[^3] | TypeScript | v1.0 | ❌ |
 
 <!-- | Gashishnik | WRAC server | OctoBanon | Soon... | In development | Rust | ❌ | v2.0 | -->
 <!-- | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden  | ❌ | Abandoned | Java | v1.99.2 |  ❌  | -->
