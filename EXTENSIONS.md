@@ -31,3 +31,13 @@ Server sends:
     - Byte `0x02` for RACv1.99
     - Byte `0x03` for RACv2
 - Server name
+
+## Avatars
+
+Client simply adds `!!AR!!<image-link>` to the end of all client's messages. \
+`<image-link>` is a link that leads to the raw image, like this one: https://i.ibb.co/TM36pXf6/my_pretty_avatar.png
+
+Recommendations about images:
+- Resolution: 512x512
+- Format: PNG
+- Size: less than 1MB
