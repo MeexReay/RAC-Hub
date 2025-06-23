@@ -4,13 +4,15 @@ You're welcome to contribute by [sharing additional entries or information](http
 
 # Clients
 
+Sorted by protocols compatibility and status!
+
 | Title | Description | Author | Release | Status | Lang | RAC | WRAC |
 | :---: | :---------: | :----: | :-----: | :----: | :--: | :-: | :--: |
-| [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [0.1.5+2.0](https://github.com/MeexReay/bRAC/releases/tag/0.1.5%2B2.0) | Active |    Rust | v2.0 | v2.0 |
+| [bRAC](https://github.com/MeexReay/bRAC)[^1] | better RAC client (GUI) | MeexReay | [0.1.5+2.0](https://github.com/MeexReay/bRAC/releases/tag/0.1.5%2B2.0) | Active | Rust | v2.0 | v2.0 |
+| [RAC.rs](https://github.com/kostya-zero/rac-rs) | Rust library for RAC client (used by [Tower](https://github.com/kostya-zero/tower)) | Kostya Zero | [0.1.0](https://crates.io/crates/rac_rs/0.1.0) | Active | Rust | v2.0 | v2.0 |
 | [сRACk](https://github.com/pansangg/cRACk)[^5] | client for RAC kettles (TUI) | pansangg | [v2.0-beta](https://github.com/pansangg/cRACk/releases/tag/v2.0-beta) | Active | Python | v2.0 | ❌ |
 | clRAC | The official RAC client | Mr. Sugoma | [2.0.1](https://wdfiles.ru/Ofx7) | Active | C | v2.0 | ❌ |
 | [Mefedroniy](https://github.com/OctoBanon-Main/mefedroniy-client) | TUI client for RAC | OctoBanon | [v1.3.1+1.99.2](https://github.com/OctoBanon-Main/mefedroniy-client/releases/tag/v1.3.1%2B1.99.2) | Active | Rust | v1.99.2 | ❌ |
-| [RAC.rs](https://github.com/kostya-zero/rac-rs) | Rust library for RAC client (used by [Tower](https://github.com/kostya-zero/tower)) | Kostya Zero | [0.1.0](https://crates.io/crates/rac_rs/0.1.0) | Active | Rust | v2.0 | v2.0 |
 | [Tower](https://github.com/kostya-zero/tower) | GUI client for RAC developed using Tauri | Kostya Zero | ❌ | Active | Rust | v2.0 | v2.0 |
 | [Snowdrop](https://github.com/Forbirdden/Snowdrop) | WRAC GUI client | Forbirdden  | ❌ | Active | JavaScript | ❌ | v2.0 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [2.0.0](https://gitea.bedohswe.eu.org/pixtaded/crab/releases/tag/2.0.0-snapshot-202502092015) | Frozen | Java | v1.99.2 | ❌ |
