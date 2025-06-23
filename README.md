@@ -17,8 +17,8 @@ Sorted by protocols compatibility and status!
 | [Snowdrop](https://github.com/Forbirdden/Snowdrop) | WRAC GUI client | Forbirdden  | ❌ | Active | JavaScript | ❌ | v2.0 |
 | [CRAB](https://gitea.bedohswe.eu.org/pixtaded/crab) | Bundle with both client and server | pixtaded | [2.0.0](https://gitea.bedohswe.eu.org/pixtaded/crab/releases/tag/2.0.0-snapshot-202502092015) | Frozen | Java | v1.99.2 | ❌ |
 | [Dobroho Vechora](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora) | The first open-source client | Bʰedoh₂ swé | [Source code](https://gitea.bedohswe.eu.org/bedohswe/dobroho_vechora/raw/branch/main/dobroho_vechora.bash) | Abandoned | Bash | v1.0[^2] | ❌ |
-| [Crack](https://gitlab.com/kiber_ogur4ik/crack) | Смешной клиент для смешного протоколо смешного чела | kiber_ogur4ik | ❌ | Abandoned | TypeScript | v1.0 | ❌ |
 | lRAC | The first original RAC client using tkinter | Mr. Sugoma | [1.0.2](https://github.com/MeexReay/RAC-Hub-Archive/tree/main/lRAC/1.0.2) | Abandoned | Python | v1.0[^4] | ❌ |
+| [Crack](https://gitlab.com/kiber_ogur4ik/crack) | Смешной клиент для смешного протоколо смешного чела | kiber_ogur4ik | ❌ | Abandoned | TypeScript | v1.0 | ❌ |
 
 <!-- | WebbyCRAB | Fork of CRAB that runs online using TeaVM | Forbirdden  | ❌ | Abandoned | Java | v1.0, v1.99.2 | ❌ | -->
 <!-- | WinRAC | GUI client for RAC developed using WinForms | cat8753 |  | Abandoned | C# | v1.99.2 | ❌ | -->
@@ -28,6 +28,8 @@ Sorted by protocols compatibility and status!
 [^5]: "_Не срал с утра или прошлого вечера, терпел ради cRACkа._" - pansangg
 
 # Server software
+
+Sorted by protocols compatibility and status!
 
 | Title | Description | Author | Release | Status | Lang | RAC | WRAC |
 | :---: | :---------: | :----: | :-----: | :----: | :--: | :-: | :--: |
