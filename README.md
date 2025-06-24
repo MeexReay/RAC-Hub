@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is a public archive, better use [racinfo](https://racinfo.kostyazero.com/)
+
 This repository provides an overview of software built around the Sugoma’s "IRC killer", the so-called RAC (Real Address Chat) protocol.
 
 You're welcome to contribute by [sharing additional entries or information](https://github.com/MeexReay/RAC-Hub/pulls) to help expand this directory.
